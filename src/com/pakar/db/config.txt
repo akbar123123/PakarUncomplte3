@@ -1,0 +1,11 @@
+/**
+* Default 
+* Hostname: localhost:3306
+* username: root
+* password: 
+* database: tgs_sms1
+*/
+Hostname = 217.21.72.102:3306
+username = u1694897_smt1 
+password = @polije.ac.id
+database = u1694897_kel19
